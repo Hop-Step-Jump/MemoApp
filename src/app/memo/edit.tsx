@@ -3,7 +3,7 @@ import { View, TextInput, StyleSheet, KeyboardAvoidingView
 
 import Header from '../../components/Header'
 import CircleButton from '../../components/CircleButton'
-import Icon from '../../components/icon'
+import Icon from '../../components/Icon'
 
 const Edit = (): JSX.Element => {
   return (
@@ -21,12 +21,12 @@ const Edit = (): JSX.Element => {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    flex: 1
   },
   inputContainer: {
     paddingVertical: 32,
     paddingHorizontal: 27,
-    flex: 1,
+    flex: 1
   },
   input: {
     flex: 1,
