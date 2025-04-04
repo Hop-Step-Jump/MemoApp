@@ -1,5 +1,6 @@
 {
   "expo": {
+    "newArchEnabled": true,
     "name": "MemoApp",
     "slug": "MemoApp",
     "scheme": "memo-app",
